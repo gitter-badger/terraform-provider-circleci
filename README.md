@@ -1,5 +1,7 @@
 # terraform-provider-circleci
 
+[![Join the chat at https://gitter.im/thiagoalessio/terraform-provider-circleci](https://badges.gitter.im/thiagoalessio/terraform-provider-circleci.svg)](https://gitter.im/thiagoalessio/terraform-provider-circleci?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Terraform][] provider for [CircleCI][].
 
 [![Codacy][codacy_badge]][codacy]
